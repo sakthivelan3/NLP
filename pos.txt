@@ -1,0 +1,23 @@
+CC ==>	Coordin. Conjunction
+CD ==>	Cardinal number	
+DT ==>	Determiner
+EX ==>	Existential
+FW ==>	Foreign word
+IN ==>	Preposition/sub-conjof
+JJ ==>	Adjective
+JJR ==>	Adj., comparative
+JJS ==>	Adj., superlative
+LS ==>	List item marker
+MD ==>	Modal
+NN ==>	Noun, sing. or mass
+NNS ==>	Noun, plural
+NNP ==>	Proper noun, singular
+NNPS ==>	Proper noun, plural
+PDT ==>	Predeterminer
+POS ==>	Possessive ending
+PRP ==>	Personal pronoun
+PRP$ ==>	Possessive pronoun
+RB ==>	Adverb
+RBR ==>	Adverb, comparative
+RBS ==>	Adverb, superlative
+RP ==>	Particle
